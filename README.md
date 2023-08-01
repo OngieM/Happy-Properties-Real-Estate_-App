@@ -1,4 +1,4 @@
-This is a final-year group project between five group members. Roles were assigned in areas of research, coding and testing. I contributed mostly tp the testing. 
+This is a final-year group project between five group members. Roles were assigned in areas of research, coding and testing. I contributed mostly to the testing and research. 
 
 This is a flutter application for real estate. The application will concentrate on two target markets: regular users who are interested in browsing homes and real estate investors (also known as property investors). This software simulates a real estate firm called Happy Properties, the properties they have available for sale, and the real estate investment services they offer (to the extent supported by the software) to customers who have an account with them for real estate investments.
 
